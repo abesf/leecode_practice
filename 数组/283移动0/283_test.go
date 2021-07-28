@@ -1,4 +1,4 @@
-package _83array_move_zero
+package _83移动0
 
 import "testing"
 

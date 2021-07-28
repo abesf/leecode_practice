@@ -11,5 +11,6 @@ func TestTwoSum(t *testing.T)  {
 }
 
 func TwoSum(nums []int,target int) []int {
-
+	return []int{}
 }
+
