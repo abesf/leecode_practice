@@ -25,7 +25,7 @@ func maxSubArray(nums []int) int {
 	}
 	return sumMax
 }
-//简化动态规划
+//简化动态规划,数组的每个值都重新定义为以该值为其所在子序组最后一位时，可达到最优子序组的和（以最大和为目标组成的子序组）
 func maxSubArray1(nums []int) int {
 	sumMax:=nums[0]
 	for i:=1;i<len(nums);i++{
