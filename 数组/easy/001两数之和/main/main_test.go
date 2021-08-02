@@ -1,4 +1,4 @@
-package test1
+package main
 
 import (
 	"testing"
@@ -10,7 +10,7 @@ func TestTwoSum(t *testing.T)  {
 	t.Log(c)
 }
 
-func TwoSum(nums []int,target int) []int {
+func TwoSumT1(nums []int,target int) []int {
 	return []int{}
 }
 

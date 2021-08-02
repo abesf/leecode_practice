@@ -1,7 +1,6 @@
 package main
 
 func main() {
-
 }
 
 //查找数组里的重复数
