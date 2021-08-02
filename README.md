@@ -1,6 +1,6 @@
 # leecode_practice
 
-my daily leecode practice training 
+my daily leecode practice training in golang
 
 项目按不同数据结构的题目进行了分割，并按难度进行了分隔
 注有题解思路和test文件 
